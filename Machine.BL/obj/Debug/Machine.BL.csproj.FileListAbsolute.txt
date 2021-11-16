@@ -1,0 +1,6 @@
+C:\Users\Lhamad\Desktop\Machine.BL\Machine.BL\bin\Debug\Machine.BL.pdb
+C:\Users\Lhamad\Desktop\Machine.BL\Machine.BL\obj\Debug\Machine.BL.csproj.AssemblyReference.cache
+C:\Users\Lhamad\Desktop\Machine.BL\Machine.BL\obj\Debug\Machine.BL.csproj.CoreCompileInputs.cache
+C:\Users\Lhamad\Desktop\Machine.BL\Machine.BL\obj\Debug\Machine.BL.pdb
+C:\Users\Lhamad\Desktop\Machine.BL\Machine.BL\bin\Debug\Machine.BL.exe
+C:\Users\Lhamad\Desktop\Machine.BL\Machine.BL\obj\Debug\Machine.BL.exe

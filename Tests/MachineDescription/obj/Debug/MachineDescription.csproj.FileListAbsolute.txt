@@ -1,0 +1,16 @@
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\bin\Debug\MachineDescription.dll
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\bin\Debug\MachineDescription.pdb
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\bin\Debug\Machine.BL.dll
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\bin\Debug\Machine.BL.pdb
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\obj\Debug\MachineDescription.csproj.AssemblyReference.cache
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\obj\Debug\MachineDescription.csproj.CoreCompileInputs.cache
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\obj\Debug\MachineDescription.csproj.CopyComplete
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\obj\Debug\MachineDescription.dll
+C:\Users\Lhamad\Desktop\Machine.BL\tests\MachineDescription\obj\Debug\MachineDescription.pdb

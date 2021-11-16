@@ -1,0 +1,16 @@
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\bin\Debug\RiskRatingUnitTest.dll
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\bin\Debug\RiskRatingUnitTest.pdb
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\bin\Debug\Machine.BL.dll
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\bin\Debug\Machine.BL.pdb
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\obj\Debug\RiskRatingUnitTest.csproj.AssemblyReference.cache
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\obj\Debug\RiskRatingUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\obj\Debug\RiskRatingUnitTest.csproj.CopyComplete
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\obj\Debug\RiskRatingUnitTest.dll
+C:\Users\Lhamad\Desktop\Machine.BL\Tests\RiskRatingUnitTest\obj\Debug\RiskRatingUnitTest.pdb
